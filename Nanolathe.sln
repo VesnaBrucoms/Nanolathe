@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nanolathe", "Nanolathe\Nanolathe.csproj", "{74B88A69-F268-43AC-9278-F76C5F21867D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1ACE0CE2-B671-45E5-88EF-393864085EFD}"
+	ProjectSection(SolutionItems) = preProject
+		EasyCompressor LICENSE = EasyCompressor LICENSE
+		LICENSE = LICENSE
+		Lombok.NET LICENSE = Lombok.NET LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B88A69-F268-43AC-9278-F76C5F21867D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B88A69-F268-43AC-9278-F76C5F21867D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B88A69-F268-43AC-9278-F76C5F21867D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B88A69-F268-43AC-9278-F76C5F21867D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E846792E-8E66-49D9-92EC-6B8990E7CFB2}
+	EndGlobalSection
+EndGlobal
