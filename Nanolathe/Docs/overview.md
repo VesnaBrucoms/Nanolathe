@@ -4,8 +4,8 @@ Nanolathe is a modding tool that aims to make modding the video game Total Annih
 
 These are the docs for the project.
 
-* [Formats](/formats/index.md)
-* [Research](/research/application%20tech.md)
+* [Formats](/Formats/index.md)
+* [Research](/Research/application%20tech.md)
 
 Unlike what I've typically worked with, TA usually has many many different files storing different types of data atomically for different parts. Such as maps being comprised of OTA (settings), TNT (terrain & height), SCT (tiled terrain & height), and TDF (map elements) files.
 

@@ -7,20 +7,20 @@ Total Annihilation makes use of a variety of file types. They are:
   - .gui - Text - Interface layout.
   - .sct - Binary - Map tiles.
   - .txt - Text - AI profiles.
-  - [.tdf - Text - Very similar to FBI files, used for lots of other bits of gamedata like sound groups, weapons, factions, etc.](/formats/TDF.md)
-  - [.fbi - Text - Unit information, including references to other files such as model and sounds.](/formats/FBI.md)
+  - [.tdf - Text - Very similar to FBI files, used for lots of other bits of gamedata like sound groups, weapons, factions, etc.](./TDF.md)
+  - [.fbi - Text - Unit information, including references to other files such as model and sounds.](./FBI.md)
   - .tnt - Binary - Maps, terrain and height info.
 * Art
-  - [.gaf - Binary -  Media format for images, animated images, UI elements, etc.](/formats/GAF.md)
+  - [.gaf - Binary -  Media format for images, animated images, UI elements, etc.](./GAF.md)
   - .bmp - Binary - Standard Bitmap images.
-  - [.pcx - Binary - Standard image format. Static images for UI elements. Usually unitpics.](/formats/PCX.md)
+  - [.pcx - Binary - Standard image format. Static images for UI elements. Usually unitpics.](./PCX.md)
   - .fnt - Binary - Standard font file.
   - .3do - Binary - 3D models.
 * Audio
   - .wav - Binary - Standard Wave audio. Used for the sound effects.
   - .mp3 - Binary - Standard MP3 audio. Used for the music.
 * Scripts
-  - [.bos - Text - Script for unit animations.](/formats/BOS.md)
+  - [.bos - Text - Script for unit animations.](./BOS.md)
   - .cob - Binary - Compiled form of BOS.
   - .h - Binary - Script libraries.
 * Archives
